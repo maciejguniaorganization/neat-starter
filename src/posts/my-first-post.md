@@ -16,6 +16,8 @@ tags:
 
 ###### This is a Heading h6
 
+![](/static/img/image.png)
+
 ## Emphasis
 
 *This text will be italic*\
